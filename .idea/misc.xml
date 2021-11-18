@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/bilal/AndroidStudioProjects/FYPA1/app/src/main/res/drawable/btn.xml" value="0.2128205128205128" />
+        <entry key="..\:/Users/bilal/AndroidStudioProjects/FYPA1/app/src/main/res/drawable/btn1.xml" value="0.2128205128205128" />
         <entry key="..\:/Users/bilal/AndroidStudioProjects/FYPA1/app/src/main/res/drawable/button.xml" value="0.2128205128205128" />
-        <entry key="..\:/Users/bilal/AndroidStudioProjects/FYPA1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bilal/AndroidStudioProjects/FYPA1/app/src/main/res/layout/activity_home_screen.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/bilal/AndroidStudioProjects/FYPA1/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/bilal/AndroidStudioProjects/FYPA1/app/src/main/res/layout/activity_sign_up.xml" value="0.18478260869565216" />
       </map>
     </option>

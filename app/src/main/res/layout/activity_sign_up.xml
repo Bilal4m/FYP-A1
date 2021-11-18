@@ -14,7 +14,7 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="48dp"
+        android:textSize="30dp"
         android:layout_marginTop="100dp"
         android:textColor="@android:color/holo_blue_dark"
         android:text="Register" />
@@ -34,11 +34,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:drawableStart="@drawable/ic_baseline_lock_24"
+        android:drawableStart="@drawable/ic_baseline_visibility_off_24"
         android:inputType="textPassword"
         android:hint="Password"
         android:drawablePadding="6dp"
-        android:drawableLeft="@drawable/ic_baseline_lock_24" />
+        android:drawableLeft="@drawable/ic_baseline_visibility_off_24" />
 
     <EditText
         android:id="@+id/signup_cnfrm_pass"
@@ -46,10 +46,10 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:inputType="textPassword"
-        android:drawableStart="@drawable/ic_baseline_lock_24"
+        android:drawableStart="@drawable/ic_baseline_visibility_off_24"
         android:hint="Confirm Password"
         android:drawablePadding="6dp"
-        android:drawableLeft="@drawable/ic_baseline_lock_24" />
+        android:drawableLeft="@drawable/ic_baseline_visibility_off_24" />
 
     <TextView
         android:layout_width="wrap_content"
